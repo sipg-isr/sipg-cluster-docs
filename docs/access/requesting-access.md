@@ -9,6 +9,10 @@
 4. Wait for explicit approval and account-specific instructions before
    using cluster services.
 
+When asking about access, be ready to briefly describe your research group and
+the kind of work you expect to run. The approved contact will tell you which
+details are required and how to provide them.
+
 If your supervisor or group contact cannot identify the current request
 channel, ask them to confirm the approved process with the cluster
 administrators. Never send passwords, private keys, or tokens with an access
