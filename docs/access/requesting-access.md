@@ -17,3 +17,11 @@ If your supervisor or group contact cannot identify the current request
 channel, ask them to confirm the approved process with the cluster
 administrators. Never send passwords, private keys, or tokens with an access
 request.
+
+## Cluster Contacts
+
+| Name | Role | Email |
+|---|---|---|
+| Francisco Mendia Vasconcelos | SysAdmin | francisco.vasconcelos.99@tecnico.ulisboa.pt |
+| Miguel Souza Dias | SysAdmin | miguel.souza.dias@tecnico.ulisboa.pt |
+| Francisco Maria Calisto | SysAdmin Coordinator | francisco.calisto@tecnico.ulisboa.pt |
